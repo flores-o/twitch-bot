@@ -1,0 +1,26 @@
+{
+  "name": "move-bot",
+  "version": "1.0.0",
+  "description": "Twitch chatbot tutorial",
+  "main": "move.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flores-o/twitch-bot.git"
+  },
+  "keywords": [
+    "npm",
+    "project"
+  ],
+  "author": "Oana Florescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flores-o/twitch-bot/issues"
+  },
+  "homepage": "https://github.com/flores-o/twitch-bot#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
